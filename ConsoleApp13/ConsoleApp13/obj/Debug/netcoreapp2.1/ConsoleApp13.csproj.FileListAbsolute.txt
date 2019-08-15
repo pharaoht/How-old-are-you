@@ -1,0 +1,11 @@
+C:\Users\Pharaoh Manson\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp2.1\ConsoleApp13.deps.json
+C:\Users\Pharaoh Manson\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp2.1\ConsoleApp13.runtimeconfig.json
+C:\Users\Pharaoh Manson\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp2.1\ConsoleApp13.runtimeconfig.dev.json
+C:\Users\Pharaoh Manson\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp2.1\ConsoleApp13.dll
+C:\Users\Pharaoh Manson\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp2.1\ConsoleApp13.pdb
+C:\Users\Pharaoh Manson\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.csprojAssemblyReference.cache
+C:\Users\Pharaoh Manson\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\Pharaoh Manson\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\Pharaoh Manson\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.AssemblyInfo.cs
+C:\Users\Pharaoh Manson\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.dll
+C:\Users\Pharaoh Manson\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.1\ConsoleApp13.pdb
